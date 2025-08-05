@@ -14,7 +14,7 @@ Linear regression is a foundational statistical technique used for modeling rela
 
 ## 📁 Repository Structure
 
-- `data/` — Sample datasets for regression tasks
+- `data/` — Sample datasets for regression tasks, the data included in this is from test scores and hours studied
 - `notebooks/` — Jupyter notebooks for experiments and visualization
 - `src/` — Core Python scripts for modeling
 - `README.md` — Project information and instructions
